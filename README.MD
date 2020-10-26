@@ -1,7 +1,6 @@
 # File System
 
-## Implementation of Following Commands Using OOPS
-
+## Implementation of Following Commands
 ##### ls
 ##### cd
 ##### mkdir
